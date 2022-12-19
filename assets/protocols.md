@@ -6,13 +6,13 @@ Present were:
 
 ## Topics: 
 * created [task-force-Nika](https://github.com/tcfev/task-force-nika/) under the umbrella of TCF e.V.
-* created 1st version of transparency protocol ![img](https://github.com/tcfev/task-force-nika/blob/main/assets/transparency-protocol.drawio.png) of the initiative
+* created 1st version of transparency protocol of the initiative
 * Created [project management board](https://github.com/orgs/tcfev/projects/12) and made it public 
 * Mentioned infiltration problem
 * Worked on member onboarding and created a [discussion board](https://github.com/tcfev/task-force-nika/discussions/2) for that  
 * Discussed plans for fund raising
 ---
-### Actionable plans (topic, plan, deadline):
+### Actionable Tasks (topic, plan, deadline):
 * [ ] Netowrking: social media and emailing to academics
 * [ ] Promoting taskforce-nika: social media presence [2-4 weeks]
 * [x] Onboarding new member protocol [1-2 weeks]
