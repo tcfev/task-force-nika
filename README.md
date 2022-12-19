@@ -1,5 +1,3 @@
-# Readme
-
 Coordinates separate IT, Internet accessibility and (digital) democracy efforts targetting Iran (and other authoritarian regimes)
 ---
 
