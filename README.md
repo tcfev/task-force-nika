@@ -7,7 +7,7 @@ This account is owned collectively by **T**ransnational **C**ommunity **F**edera
 
 Every natural or legal person who follows our [`general principles`](https://github.com/tcfev/task-force-nika/blob/main/general-principles.md) can [`become a member`](https://github.com/tcfev/task-force-nika/discussions/2).  
  All our activites follow this `Transparency Protocol`:  
-![img](https://github.com/tcfev/task-force-nika/blob/main/assets/transparency-protocol.drawio.png)
+![img](https://github.com/tcfev/task-force-nika/blob/main/assets/transparency-protocol.drawio.png)  
 Link: https://app.diagrams.net/#G1n_orEnmuJqd8VCiPXuItPi8Zi3Hd9V-l
 
 ## Projects
