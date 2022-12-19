@@ -21,3 +21,4 @@ Every natural or legal person who follows our [`general principles`](https://git
 #### News & broadcasting 
 * 
 
+Link: https://hackmd.io/BWug5ZT5RkmET5rmY6jV0w
