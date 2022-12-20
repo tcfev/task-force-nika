@@ -1,4 +1,4 @@
-Coordinates separate IT, Internet accessibility and (digital) democracy efforts targetting Iran (and other authoritarian regimes)
+Coordinates separate IT, Internet accessibility and (digital) democracy efforts targetting Iran (and other countries with authoritarian regimes)
 ---
 
 ### Who owns this account
