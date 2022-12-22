@@ -1,8 +1,8 @@
 Coordinates separate IT, Internet accessibility and (digital) democracy efforts targetting Iran (and other authoritarian regimes)
 ---
 
-## Introduce your project/organization
-Please introduce your project/organization by submitting an [`introduction`](https://github.com/tcfev/task-force-nika/issues/new?assignees=&labels=Introduction&template=intorduce-your-organization-project.md&title=Project%2FOrganization+Introduction).
+## Introduce your project/organization/self
+If you have a project/organization, please introduce it by submitting an [`introduction`](https://github.com/tcfev/task-force-nika/issues/new?assignees=&labels=Introduction&template=intorduce-your-organization-project.md&title=Project%2FOrganization+Introduction) and if want to offer your expertise for helping our cause, please [`introduce yourself`](https://github.com/tcfev/task-force-nika/discussions/2). 
 
 ## Projects
 #### Free Internet
