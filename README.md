@@ -11,7 +11,6 @@ This account is owned collectively by **T**ransnational **C**ommunity **F**edera
 
 Every natural or legal person who follows our [`general principles`](https://github.com/tcfev/task-force-nika/blob/main/general-principles.md) can [`become a member`](https://github.com/tcfev/task-force-nika/discussions/2).  
  All our activites follow this `Transparency Protocol`:  
-![img](https://github.com/tcfev/task-force-nika/blob/main/assets/transparency-protocol.drawio.png)
 
 As in any fractal system there is going to be no top-down planning or managing, but there is a constant re-organising to find the best fit with the everchanging revolutionary environment.
 ---
