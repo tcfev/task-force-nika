@@ -2,8 +2,7 @@
 
 
 ### Introduce Your Project, Organization, Self & Join Us
-If you have a project/organization, please introduce it by submitting an [`introduction`](https://github.com/tcfev/task-force-nika/issues/new?assignees=&labels=Introduction&template=intorduce-your-organization-project.md&title=Project%2FOrganization+Introduction) and if want to offer your expertise for helping our cause, please [`introduce yourself`](https://github.com/tcfev/task-force-nika/discussions/2). 
-Or Email us at: TFN at transcf dot org
+If you have a project/organization, please introduce it by submitting an [`introduction`](https://github.com/tcfev/task-force-nika/issues/new?assignees=&labels=Introduction&template=intorduce-your-organization-project.md&title=Project%2FOrganization+Introduction) and if want to offer your expertise for helping our cause, please [`introduce yourself`](https://github.com/tcfev/task-force-nika/discussions/2) or Email us at: TFN at transcf dot org
 #
 ### About Us
 This space is owned collectively by **T**ransnational **C**ommunity **F**ederation **e.V.**'s members.
