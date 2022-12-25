@@ -1,6 +1,6 @@
 Todo: extract the text here from Coordination folder on G.  @jinaamini
 
-# Transparency Protocol:
+# Transparency Protocol
 
 * All the decision making procedures will be recorded
 * Anonymized versions of the protocols will be made public
