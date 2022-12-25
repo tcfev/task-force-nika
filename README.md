@@ -12,13 +12,13 @@ As in any fractal system there is going to be no top-down planning or managing, 
 
 Every natural or legal person who follows our [`general principles`](https://github.com/tcfev/task-force-nika/blob/main/general-principles.md) can [`become a member`](https://github.com/tcfev/task-force-nika/discussions/2).  
 
-All our activites follow this [Transparency Protocol](https://github.com/tcfev/task-force-nika/blob/main/assets/Protocols/transparency-protocol.md) 
+All our activities follow this [Transparency Protocol](https://github.com/tcfev/task-force-nika/blob/main/assets/Protocols/transparency-protocol.md) 
 #
 ### Our Projects
 - Free Internet
   - Creating a new wireless infrastructure using WiFi-Direct, LTE D2D to build Mesh networks
   - Starlink & SDR
-- e-Democtacy platform
+- e-Democracy platform
 - MOOC 
 - News & broadcasting 
   - Radio channel - TODO
