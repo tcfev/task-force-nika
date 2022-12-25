@@ -12,7 +12,7 @@ Todo: extract the text here from Coordination folder on G.  @jinaamini
 
 
  ## Implementation details
-*  We track in minutes of the sessions when a member leaves the meeting. This way these individuals will get inform themselves after they access the total minutes. 
+*  We track in minutes of the sessions when a member leaves the meeting. This way these individuals will get to inform themselves after they access the final minutes. 
 
 #
 ![img](https://github.com/tcfev/task-force-nika/blob/main/assets/Protocols/transparency-protocol.drawio.png)
