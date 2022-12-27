@@ -1,8 +1,8 @@
 ---
 category: ideas
 labels: ''
-name: of the idea
-about: a line about this idea 
+name: Inroduce your idea
+about: Create a robust profile for your idea and help others get involved. 
 assignees: ''
 deadline: dd.mm.yy 
 ---
