@@ -22,7 +22,7 @@ people involved:
 ## Literature
 * List the research done in this area
   
-## Simliar efforts
+## Similiar efforts
 * Name some ongoing efforts
 
 ## Value added
@@ -34,4 +34,4 @@ people involved:
 * [ ] Activity one -3 hours
 
 ## Decision Making Procedure
-* Explain how you make decision before you act upon the task. e.g how you proritise, how you allocate resources, control quality and so on. 
+* Explain how you make decision before you act upon the task. e.g how you prioritise, how you allocate resources, control quality and so on. 
