@@ -1,8 +1,8 @@
 ---
 category: ideas
 labels: ''
-name: ''
-about: ''
+name: of the idea
+about: a line about this idea 
 assignees: ''
 deadline: dd.mm.yy 
 ---
