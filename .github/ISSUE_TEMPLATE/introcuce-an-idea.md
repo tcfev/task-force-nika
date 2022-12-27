@@ -1,6 +1,8 @@
 ---
 category: ideas
 labels: ''
+name: ''
+about: ''
 assignees: ''
 deadline: dd.mm.yy 
 ---
