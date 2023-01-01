@@ -1,4 +1,4 @@
-## Coordinates IT, Internet accessibility, and (digital) democracy efforts targetting Iran (and other authoritarian regimes)
+## Coordinates IT, Internet accessibility, and (digital) democracy efforts targeting Iran (and other authoritarian regimes)
 
 
 ### Introduce Yourself, Your Project, Organization & Join Us
