@@ -10,7 +10,7 @@ This space is owned collectively by **T**ransnational **C**ommunity **F**ederati
 
 As in any fractal system, there will be no top-down planning or managing, but there is constant re-organization to find the best fit with the everchanging revolutionary environment.
 
-Every natural or legal person who follows our [`general principles`](https://github.com/tcfev/task-force-nika/blob/main/general-principles.md) can [`become a member`](https://github.com/tcfev/task-force-nika/discussions/2).  
+Every natural or legal person who follows our [`general principles`](https://github.com/tcfev/task-force-nika/blob/main/assets/official-docs/english-bylaws-ratified-on-Dec-2022.pdf) can [`become a member`](https://github.com/tcfev/task-force-nika/discussions/2).  
 
 All our activities follow this [Transparency Protocol](https://github.com/tcfev/task-force-nika/blob/main/assets/Protocols/transparency-protocol.md) 
 #
