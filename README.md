@@ -8,7 +8,7 @@ If you have a project or organization that deals with the topics mentioned above
 This space is run collectively by 
 - [Transnational Community Federation e. V.](https://transcf.org)'s members
 - members of the Iranian Digital Rights Guild (upcoming)
-- Digital Freedoms Act for Iran   
+- Digital Freedoms Act for Iran (upcoming)  
 
 And it is open to all other forces fighting agaisnt digital rights violations.
 
